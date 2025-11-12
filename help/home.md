@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge
 description: 進一步瞭解Adobe Brand Concierge。
-source-git-commit: e0d40aa0cc85e87416c58729851f1c9d12c9e933
+source-git-commit: 9be88150aeae1f553f5ca2172353a72fdc0b4a7c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Adobe Brand Concierge是AI支援的數位夥伴，可改變品牌與網站訪客
 
 ## 運作方式
 
-Brand Concierge的核心是運用大型語言模型(LLM)並與Adobe的數位體驗棧疊(例如Adobe Experience Manager和Adobe Experience Platform)整合，以提供即時且具內容感知的交談。 它利用核准的品牌內容、產品目錄和其他信任的來源，確保所有資訊都符合品牌安全且為最新狀態。
+Brand Concierge使用進階AI並與Adobe工具連線，提供針對每位訪客量身打造的實用即時交談。 它利用核准的品牌內容、產品目錄和其他信任的來源，確保所有資訊都符合品牌安全且為最新狀態。
 
 * 對話式歷程：訪客透過自然文字或語音互動、提出問題、接收視覺產品比較並探索量身打造的建議。
 * Personalization：平台會使用客戶訊號、先前的互動和行為資料（充分尊重隱私權和合規性）來調整回應。
@@ -29,9 +29,9 @@ Brand Concierge的核心是運用大型語言模型(LLM)並與Adobe的數位體�
 
 Adobe Brand Concierge在幾個方面與傳統聊天機器人和第三方助理不同：
 
-* 品牌安全、值得信賴的AI：與一般的交談AI不同，Brand Concierge只會根據您驗證的內容顯示答案和建議，絕不會「產生幻覺」或依賴未核准的來源。 行銷人員可完全控制語調、訊息傳送和法規遵循護欄。
+* 品牌安全、值得信賴的AI：不同於一般的交談AI，Brand Concierge只會根據您的驗證內容顯示答案和建議。 行銷人員可完全控制語調、訊息傳送和法規遵循護欄。
 * 提高轉換率和忠誠度：Brand Concierge透過即時、相關和個人化回應（而非靜態搜尋或常見問題頁面）滿足訪客，可加快決策制定、提高轉換率，並讓使用者持續參與您擁有的屬性。
-* 順暢的人工移交：當問題需要即時接觸時，Brand Concierge可以將對話（含情境）傳遞給銷售或支援代理，以確保持續性和順暢的客戶體驗。
+* 即將推出的功能 — 順暢的人工移交：當問題需要即時接觸時，Brand Concierge可以將對話（含情境）傳遞給銷售或支援代理，以確保持續性和順暢的客戶體驗。
 * 持續學習和改善：每次互動都會豐富客戶設定檔，並提供可操作的深入分析。 行銷人員和網站擁有者可以看到客戶提出的問題、收集意見以及最佳化流程，這一切都不需要開發人員即可完成。
 * 彈性的部署，快速實現價值：可輕鬆新增Brand Concierge作為Widget，或透過SDK將其內嵌在您的網站或應用程式中。 深度的Adobe整合可讓您快速設定搭配AEM、AEP或Commerce使用的品牌，但也可在沒有這些品牌的情況下運作。
 
