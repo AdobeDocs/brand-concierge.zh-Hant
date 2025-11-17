@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge概觀
 description: 瞭解Adobe Brand Concierge，一款由AI支援的產品探索和參與解決方案，適用於品牌擁有的數位資產。
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2953'
+source-wordcount: '2952'
 ht-degree: 1%
 
 ---
@@ -127,9 +127,9 @@ Brand Concierge首頁旨在提供易用性和效率，透過專屬的初次使�
 2. 使用Tester檢視來模擬一般使用者交談。
 3. 使用向上和向下縮圖機制，為您收到的每個回應評分。
 4. 完整的意見回饋表單（縮圖顯示）：
-   **回應涵蓋範圍：**&#x200B;它是否回應了目的？
-   **品牌色調：**&#x200B;是否與個性一致？
-   **回應品質：**&#x200B;是否清除且結構化？
+   **回應涵蓋範圍：**它是否回應了目的？
+   **品牌色調：**是否與個性一致？
+   **回應品質：**是否清除且結構化？
    **回應功能：**&#x200B;有用的後續追蹤？
 5. 新增評論和特定觀察結果。
 6. 提交意見回饋以供控制面板檢閱。
@@ -179,7 +179,7 @@ Brand Concierge可讓企業透過進階的對話式AI功能與客戶互動。 �
 * 控制品牌語調、語調和法規遵循需求。
 * 使用Customer Journey Analytics儀表板追蹤效能。
 * 啟用順暢的AI對人切換，包括會議排程。
-* 整合Adobe Experience Platform、Commerce和Experience Manager。
+* 整合Adobe Experience Platform和Experience Manager。
 
 ## 使用案例
 
