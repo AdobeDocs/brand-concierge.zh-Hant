@@ -1,5 +1,5 @@
 ---
-title: 預約會議
+title: 預約會議 — 影片
 description: 瞭解如何預約會議。 以客戶身分檢視體驗，並設定代表使用其行事曆和檢視報告
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 了解轉送到即時代理程式的速度和輕鬆程度
 * 探索如何管理和設定這些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478545?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 如需更多檔案，請參閱[會議](../documentation/meetings.md)。
