@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ ht-degree: 0%
 * 了解轉送到即時代理程式的速度和輕鬆程度
 * 探索如何管理和設定這些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478545?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+如需更多檔案，請參閱[會議](../documentation/meetings.md)。

@@ -1,5 +1,5 @@
 ---
-title: 開始使用Brand Concierge
+title: 建立禮賓影片
 description: 瞭解如何設定Adobe Brand Concierge，使用您品牌的聲音提供個人化的對話式客戶體驗。
 topic: Personalization,Integrations
 role: User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 9ae37f8f5b85e21930ccc0644520f31d65a81829
+source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ ht-degree: 0%
 * 如何連線內容來源以取得準確回應
 * 如何自訂品牌語調並測試體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3476532/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
