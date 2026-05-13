@@ -43,6 +43,6 @@ ht-degree: 17%
 * 了解轉送到即時代理程式的速度和輕鬆程度
 * 探索如何管理和設定這些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478545?captions=chi_hant&learn=on&enablevpops)
 
 如需更多檔案，請參閱[會議](../documentation/meetings.md)。
