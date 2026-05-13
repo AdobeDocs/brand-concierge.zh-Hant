@@ -6,15 +6,25 @@ role: User
 level: Beginner
 doc-type: Tutorial
 duration: 181
-last-substantial-update: 2025-10-31T00:00:00Z
+last-substantial-update: 2025-10-31T00:00:00.000Z
 jira: KT-19504
-source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
+TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 133
 ht-degree: 0%
 
 ---
-
 
 # 建立您的第一個服務人員
 
