@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
 workflow-type: tm+mt
-source-wordcount: 1793
+source-wordcount: 1995
 ht-degree: 1%
 
 ---
@@ -234,3 +234,32 @@ Brand Concierge支援多個產業的B2C和B2B使用案例。
 | 觀光與餐旅 | 客戶可獲得個人化的目的地建議、規劃行程的協助、整個預訂程式的支援，以及旅行政策問題的解答。 |
 | 金融服務 | Brand Concierge提供產品比較，以協助客戶選擇正確的財務解決方案、提供帳戶資訊、提供可感知合規性的指引，並啟用與財務顧問的會議排程。 |
 
+## 聊天機器人洩漏 {#disclosure}
+
+為了提供透明且值得信賴的體驗，Adobe Brand Concierge使用者有責任在其聊天體驗中新增簡短披露。 此公開內容可協助使用者瞭解聊天如何運作以及如何使用其資訊。
+
+**公開應涵蓋的內容**
+
+您聊天中的披露內容應該會向一般使用者清楚傳達三件事。
+
+1. _聊天使用產生式AI_
+
+   讓使用者知道回應是由AI產生，方便他們瞭解自己正與自動化系統互動。
+
+1. 可檢閱&#x200B;_聊天內容以改善體驗_
+
+   應通知使用者，您（客戶）和您的服務供應商可能會存取聊天交談，以協助個人化回應並改善聊天品質和效能。
+
+1. _使用聊天表示同意此使用_
+
+清楚表明使用者繼續使用聊天功能，即表示同意處理聊天資料。
+
+**範例（僅供參考）**
+
+`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+
+只要上述要點清楚溝通，您就可以自由調整措辭，以符合您的品牌聲音和使用者體驗。
+
+**這很重要的原因**
+
+事先瞭解聊天的工作方式，有助於為使用者設定正確的期望，並建立對AI支援的體驗的信任。
