@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
+source-git-commit: 5eafcffb1c812ae71326ccde9d2d0440c522db60
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 55%
+source-wordcount: '42'
+ht-degree: 50%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 55%
 + 開始使用影片 {#getting-started}
    + [建立您的第一個服務人員](../getting-started/create-first-concierge.md)
    + [預約會議](../getting-started/meeting-booking.md)
+   + [瞭解資料串流ID](../getting-started/learn-about-datastream-ids.md)
 + 文件 {#documentation}
    + [Brand Concierge說明](../documentation/overview.md)
    + [會議](../documentation/meetings.md)
