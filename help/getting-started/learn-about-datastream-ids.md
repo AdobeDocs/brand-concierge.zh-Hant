@@ -34,6 +34,6 @@ ht-degree: 0%
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491544?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
