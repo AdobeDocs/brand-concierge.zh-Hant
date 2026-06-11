@@ -8,7 +8,7 @@ topic: Integrations
 doc-type: Tutorial
 last-substantial-update: 2026-06-10T00:00:00Z
 jira: KT-21468
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 與Marketo整合
 
-瞭解Brand Concierge如何關閉您的網站與Marketo Engage之間的回圈。 瞭解訪客對話（從聊天中潛在客戶擷取到會議預訂）如何以原生活動資料的形式自動流入Marketo，以及如何將該資料用於觸發和批次Smart Campaigns。
+瞭解Brand Concierge如何關閉您的網站與Marketo Engage之間的回圈。 瞭解訪客交談（從聊天中潛在客戶擷取到會議預訂）如何以原生活動資料的形式自動流入Marketo，以及如何將該資料用於觸發和批次Smart Campaigns。
 
 ## 這部影片是給誰看的？
 
