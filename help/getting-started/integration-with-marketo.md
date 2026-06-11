@@ -29,6 +29,6 @@ ht-degree: 0%
 * 潛在客戶的「活動記錄」中記錄的原生「在禮賓處排程的會議」活動型態，具有完整內容：會議持續時間、銷售步驟、路由型態及預訂狀態
 * 如何在Marketo智慧行銷活動中使用Brand Concierge活動型別，作為觸發器、篩選器或批次行銷活動資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492234?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
