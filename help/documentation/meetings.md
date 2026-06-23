@@ -11,10 +11,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
 workflow-type: tm+mt
-source-wordcount: 347
-ht-degree: 2%
+source-wordcount: 329
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,9 @@ ht-degree: 2%
 
 在Adobe Brand Concierge中瞭解所有&#x200B;_會議_&#x200B;設定。 連線您的行事曆、設定可用性、檢視分析等。
 
-相關： [預約會議](../getting-started/meeting-booking.md)影片
+>[!NOTE]
+>
+>您也可以觀看[預約會議](../getting-started/meeting-booking.md)影片。
 
 ## 設定 {#configuration}
 
@@ -36,11 +38,9 @@ ht-degree: 2%
 
    ![Adobe Experience Platform首頁](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. 在&#x200B;_組態_&#x200B;下，按一下&#x200B;**[!UICONTROL 代表設定]**。
+1. 在&#x200B;_組態_&#x200B;下，按一下&#x200B;**設定檔設定**。 在&#x200B;**[!UICONTROL 行事曆組態]**&#x200B;索引標籤中，選擇您想要的行事曆。
 
    ![行事曆設定頁面](assets/meetings-connect-2.png)
-
-   在&#x200B;_[!UICONTROL 行事曆組態]_&#x200B;索引標籤中，選擇您想要的行事曆。 在此範例中，您正在選取&#x200B;**[!UICONTROL Outlook]**。
 
 1. 選擇已登入的帳戶，或新增帳戶。
 
@@ -54,15 +54,13 @@ ht-degree: 2%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-### 設定日曆可用性 {#availability}
+### 設定日曆可用性 {#calendar-availability}
 
 1. 按一下「**[!UICONTROL 行事曆可用性]**」標籤。
 
    ![空白行事曆可用性頁面](assets/meetings-availability-1.png)
 
 1. 選擇您想要的設定。
-
-   在此範例中，您選擇30分鐘的&#x200B;**[!UICONTROL 會議持續時間]**，15分鐘的&#x200B;**[!UICONTROL 緩衝時間]**&#x200B;和2小時的&#x200B;**[!UICONTROL 最小通知]**。 可用性設定為星期一到星期五，上午8點至下午5點(PST)，並於中午休息一小時。
 
    >[!NOTE]
    >
@@ -72,11 +70,18 @@ ht-degree: 2%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-### 代表管理 {#representative}
+### 設定即時聊天可用性 {#chat-availability}
+
+1. 按一下&#x200B;**[!UICONTROL 即時聊天可用性]**&#x200B;標籤，然後選擇您想要的設定。 完成時，按一下&#x200B;**儲存**。
+
+   ![已填寫所有欄位的即時聊天可用性頁面](assets/meetings-availability-3.png)
+
+
+### 管理成員 {#manage}
 
 **僅管理員**。 檢視您的哪些代表已成功連線他們的行事曆。
 
-![代表管理頁面](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![代表管理頁面](assets/manage-members-1.png)
 
 ## 活動 {#activities}
 
