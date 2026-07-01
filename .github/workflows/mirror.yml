@@ -22,6 +22,6 @@ jobs:
       # TODO(maintainer): Set the GitHub team slug that owns issues/PRs for this localized repo
       # (replaces __TEAM_SLUG__ in the shared assign-issue.yml / assign-pr.yml templates).
       # Examples: sccm-loc-vendors-de-de, sccm-loc-vendors-fr-fr, sccm-loc-vendors-pt-br.
-      locale-team-slug: sccm-loc-vendors-zh-hans
+      locale-team-slug: sccm-loc-vendors-zh-hant
       # TODO(maintainer): If public target differs from AdobeDocs/<this-repo-name>, pass:
       # mirror-target-repository: <owner>/<repo>
