@@ -42,7 +42,7 @@ ht-degree: 0%
 * 如何連線內容來源以取得準確回應
 * 如何自訂品牌語調並測試體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476532/?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
 
