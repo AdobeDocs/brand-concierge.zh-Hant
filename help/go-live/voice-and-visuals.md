@@ -32,6 +32,6 @@ ht-degree: 0%
 * Widget視覺選項：位置、顯示模式、顏色和字型
 * 為助理命名、撰寫其問候語，並選擇起始提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496951/?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
