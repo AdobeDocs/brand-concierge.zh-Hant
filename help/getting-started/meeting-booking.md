@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00.000Z
+last-substantial-update: 2026-01-06
 jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
@@ -20,16 +20,16 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: 121
-ht-degree: 17%
+ht-degree: 51%
 
 ---
 
 # 預約會議
 
-瞭解Adobe Brand Concierge中的預約會議功能。 此影片教學課程的主題涵蓋了面對客戶的體驗的外觀、連線行事曆的管理員設定，以及某些儀表板和報表的外觀。
+了解 Adobe Brand Concierge 中的預約會議功能。 此影片教學課程的主題涵蓋面向客戶體驗的實際呈現方式、連接行事曆的管理員設定，以及介紹部分儀表板和報告。
 
 ## 這部影片是給誰看的？
 
