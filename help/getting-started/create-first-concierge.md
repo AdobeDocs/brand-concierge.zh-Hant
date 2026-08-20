@@ -42,7 +42,7 @@ ht-degree: 0%
 * 在儲存之前，如何檢閱和調整品牌設定檔、指示，以及入門提示
 * 如何在桌上型電腦和行動裝置上透過範例問題測試您的服務生
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476532?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
 
