@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 9eb6c0edb3712451c6d0d118cf19304e34630737
+source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 26%
+source-wordcount: '107'
+ht-degree: 20%
 
 ---
 
@@ -28,6 +28,13 @@ ht-degree: 26%
   + [會議](../documentation/meetings.md)
   + {hide-from-toc}[技能與整合架構](../documentation/skills-and-integrations.md)
   + [常見問題集](../documentation/brand-concierge-faq.md)
+  + 概觀 {#overview}
+    + {hide-from-toc}[Brand Concierge概觀](../documentation/overview/overview.md)
+    + {hide-from-toc}[您的第一個Brand Concierge](../documentation/overview/first-brand-concierge.md)
+  + 使用者和存取管理 {#user-and-access-management}
+    + {hide-from-toc}[新增使用者至組織](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + {hide-from-toc}[新增使用者至角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + {hide-from-toc}[建立角色](../documentation/user-and-access-management/create-a-role.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
