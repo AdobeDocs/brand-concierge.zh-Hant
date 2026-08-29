@@ -32,6 +32,6 @@ ht-degree: 0%
 * 如何編輯歡迎訊息標題和副標題，包括文字顏色、粗細和大小
 * 如何新增、移除和編輯入門提示卡 — 包括卡片文字、影像和背景顏色
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502268?captions=chi_hant)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
