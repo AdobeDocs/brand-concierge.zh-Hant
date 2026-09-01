@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
+source-git-commit: 2255c486351718718d7f729ae7f870446c955793
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '127'
 ht-degree: 20%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 20%
   + [瞭解資料串流ID](../getting-started/learn-about-datastream-ids.md)
   + [與Marketo整合](../getting-started/integration-with-marketo.md)
   + [自訂禮賓的視覺風格](../getting-started/customize-visual-style.md)
+  + [瞭解評估集](../getting-started/learn-about-evaluation-sets.md)
 + 上線指南 {#go-live-guide}
   + [歡迎使用您的上線歷程](../go-live/welcome.md)
   + [準備您的內容和訪客體驗](../go-live/content-and-journey.md)
@@ -35,6 +36,18 @@ ht-degree: 20%
     + {hide-from-toc}[新增使用者至組織](../documentation/user-and-access-management/add-a-user-to-the-org.md)
     + {hide-from-toc}[新增使用者至角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[建立角色](../documentation/user-and-access-management/create-a-role.md)
+  + 知識來源 {#knowledge-sources}
+    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+  + 禮賓管理 {#concierge-management}
+    + {hide-from-toc}[公分](../documentation/concierge-management/concierge-management.md)
+  + 評估 {#evaluation}
+    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+  + 部署 {#deployment}
+    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+  + 上線檢查清單 {#go-live-checklist}
+    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+  + Analytics {#analytics}
+    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
