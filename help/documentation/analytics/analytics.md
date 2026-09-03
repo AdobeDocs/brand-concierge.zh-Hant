@@ -2,9 +2,9 @@
 title: 分析門房績效
 description: 瞭解如何檢閱禮賓分析、檢查交談記錄、將訪客問題新增至評估集，以及開啟Customer Journey Analytics報告。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ CJA控制面板包括：
 - 交談期間提出的服務生建議。
 
 使用儀表板可檢查一段時間的趨勢，並識別訪客參與度、意見回饋、意圖和情緒中的變更。
-
-## 匯出交談
-
-原始資料會識別交談ID，作為比對成績單與其他系統中記錄的方式，但不會記錄匯出機制。
 
 >[!IMPORTANT]
 >
