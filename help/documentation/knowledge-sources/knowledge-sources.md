@@ -2,9 +2,9 @@
 title: 建立和管理Brand Concierge的知識來源
 description: 瞭解如何為Brand Concierge建立AEM Sites、網站連結和產品目錄知識來源、監控處理狀態和解決抓取問題。
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '867'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 1%
 
 ## 選擇知識來源
 
+Brand Concierge支援下列知識來源型別：
+
 | 知識來源 | 使用時機 | 主要功能 |
 | --- | --- | --- |
 | AEM Sites （Content AI索引） | 客戶使用啟用Content AI的AEM Sites as a Cloud Service。 | 使用現有的Content AI索引，並讓更新的AEM Sites內容可供使用，而不需要個別的抓取或重新整理步驟。 |
@@ -30,7 +32,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->原始資料指出，透過Adobe Commerce銷售且目錄大型的客戶應改用Commerce MCP整合。 有關該整合的詳細資訊不在本文討論範圍內。
+>透過Adobe Commerce銷售且目錄大型的客戶應改用Commerce MCP整合。 有關該整合的詳細資訊不在本文討論範圍內。
 
 ## 建立AEM Sites知識來源
 
@@ -90,7 +92,7 @@ ht-degree: 1%
 | --- | --- |
 | 進行中 | 目前正在處理知識來源。 |
 | 成功 | 知識來源已完全處理並可供使用。 |
-| 排定 | 系統會在未來排程時間處理知識來源。 |
+| 已排程 | 系統會在未來排程時間處理知識來源。 |
 | 部分成功 | 部分頁面已成功處理，部分頁面則失敗。 |
 
 「知識來源詳細資訊」頁面提供下列資訊：
