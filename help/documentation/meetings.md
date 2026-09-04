@@ -1,24 +1,20 @@
 ---
-title: 設定和設定會議
-description: 瞭解如何在Adobe Brand Concierge中設定會議。
+title: 設定及設定會議預訂
+description: 瞭解如何在Adobe Brand Concierge中設定會議預訂，包括行事曆連線、可用性、成員存取和效能分析。
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
-product_v2:
-  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 3%
 
 ---
 
-# 會議 {#meetings}
+# 會議預訂 {#meetings}
 
 在Adobe Brand Concierge中瞭解所有&#x200B;_會議_&#x200B;設定。 連線您的行事曆、設定可用性、檢視分析等。
 
@@ -34,7 +30,7 @@ ht-degree: 3%
 
 1. 登入[Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}。
 
-1. 選取&#x200B;**[!UICONTROL 銷售限定詞]**。
+1. 選取&#x200B;**[!UICONTROL Sales Qualifier]**。
 
    ![Adobe Experience Platform首頁](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
@@ -68,7 +64,7 @@ ht-degree: 3%
 
    ![已填寫所有欄位的Calendar可用性頁面](assets/meetings-availability-2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 儲存]**。
+1. 按一下「**[!UICONTROL 儲存]**」。
 
 ### 設定即時聊天可用性 {#chat-availability}
 
