@@ -4,10 +4,20 @@ description: 瞭解如何設定和使用Brand Concierge的主要功能。
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
 source-wordcount: 2047
@@ -147,7 +157,7 @@ Brand Concierge具有許多主要功能，包括：
 1. 使用聊天介面輸入您的查詢（例如，_推薦低於$1000_&#x200B;的筆記型電腦）。
 1. 檢閱門房回應。
 1. 使用右側面板可調整您的品牌運算式設定。
-1. 按一下[共用&#x200B;****]產生團隊意見的連結。
+1. 按一下[共用&#x200B;**&#x200B;**]產生團隊意見的連結。
 
 >[!TAB 測試者檢視]
 
@@ -157,9 +167,9 @@ Brand Concierge具有許多主要功能，包括：
 1. 使用Tester檢視來模擬一般使用者交談。
 1. 使用向上和向下縮圖機制，為您收到的每個回應評分。
 1. 完整的意見回饋表單（縮圖顯示）：
-   **回應涵蓋範圍：**它是否回應了目的？
-   **品牌色調：**是否與個性一致？
-   **回應品質：**是否清除且結構化？
+   **回應涵蓋範圍：**&#x200B;它是否回應了目的？
+   **品牌色調：**&#x200B;是否與個性一致？
+   **回應品質：**&#x200B;是否清除且結構化？
    **回應功能：**&#x200B;有用的後續追蹤？
 1. 新增評論和特定觀察結果。
 1. 提交意見回饋以供控制面板檢閱。
