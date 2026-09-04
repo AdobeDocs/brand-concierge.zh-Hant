@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 19%
+source-wordcount: '154'
+ht-degree: 16%
 
 ---
 
@@ -28,28 +28,28 @@ ht-degree: 19%
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
   + [會議](../documentation/meetings.md)
-  + {hide-from-toc}[技能與整合架構](../documentation/skills-and-integrations.md)
+  + [技能與整合架構](../documentation/skills-and-integrations.md)
   + [開發人員和自訂指南](../documentation/developer-customization-guide.md)
   + [常見問題集](../documentation/brand-concierge-faq.md)
   + 概觀 {#overview}
-    + {hide-from-toc}[Brand Concierge概觀](../documentation/overview/overview.md)
-    + {hide-from-toc}[您的第一個Brand Concierge](../documentation/overview/first-brand-concierge.md)
+    + [Brand Concierge概觀](../documentation/overview/overview.md)
+    + [您的第一個Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + 使用者和存取管理 {#user-and-access-management}
-    + {hide-from-toc}[新增使用者至組織](../documentation/user-and-access-management/add-a-user-to-the-org.md)
-    + {hide-from-toc}[新增使用者至角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
-    + {hide-from-toc}[建立角色](../documentation/user-and-access-management/create-a-role.md)
+    + [新增使用者至組織](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + [將使用者新增至角色](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + [建立角色](../documentation/user-and-access-management/create-a-role.md)
   + 知識來源 {#knowledge-sources}
-    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + [建立和管理Brand Concierge的知識來源](../documentation/knowledge-sources/knowledge-sources.md)
   + 禮賓管理 {#concierge-management}
-    + {hide-from-toc}[公分](../documentation/concierge-management/concierge-management.md)
+    + [管理門房](../documentation/concierge-management/concierge-management.md)
   + 評估 {#evaluation}
-    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+    + [評估服務人員](../documentation/evaluation/evaluation.md)
   + 部署 {#deployment}
-    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+    + [部署禮賓](../documentation/deployment/deployment.md)
   + 上線檢查清單 {#go-live-checklist}
-    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+    + [禮賓處的上線檢查清單](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
+    + [分析門房績效](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
 + {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)

@@ -1,9 +1,9 @@
 ---
 title: Brand Concierge概觀
 description: 瞭解Brand Concierge是什麼、其主要元件如何組合，以及您在Composer介面中會遇到的主要辭彙表。
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '509'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ Brand Concierge部署有兩個主要部分：
 | **訪客體驗** | 品牌導向表面，例如網站或行動應用程式，訪客可在此與禮賓處互動並即時獲得回應。 |
 | **撰寫者** | 此從業人員介面用於設計禮賓體驗，並管理禮賓、整合、設定、評估、部署和分析。 |
 
-## 本指南中涵蓋的撰寫器模組
+## 撰寫器模組
 
-在Composer中，主要模組（以及本指南所涵蓋的範圍）為：
+在Composer中，主要模組包括：
 
-- 使用者管理（第3節）
-- 知識來源的建立與管理，由服務人員共用（第4節）
-- 禮賓管理：整合、技能、禮賓指示、語調和語音、視覺風格和聊天元件（第5節）
-- 評估（第6節）
-- 部署（第7節）
-- 上線檢查清單（第8節）
-- Analytics （第9節）
+- [使用者和存取管理](../user-and-access-management/add-a-user-to-the-org.md)
+- [知識來源的建立與管理](../knowledge-sources/knowledge-sources.md)，由服務人員共用
+- [門房管理](../concierge-management/concierge-management.md)：整合、技能、門房指示、音調和語音、視覺風格和聊天元件
+- [評估](../evaluation/evaluation.md)
+- [部署](../deployment/deployment.md)
+- [上線檢查清單](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## 片段如何連線
 
@@ -58,4 +58,4 @@ Brand Concierge部署有兩個主要部分：
 
 >[!NOTE]
 >
->行銷人員通常可以完全略過第3節&#x200B;*使用者與存取管理* （IT中的某人只完成一次），並從第4節&#x200B;*知識來源*&#x200B;開始。 只有在設定新隊友時，才會回到第3節。
+>行銷人員通常可以完全略過[使用者與存取管理](../user-and-access-management/add-a-user-to-the-org.md) （IT人員只完成一次），從[知識來源](../knowledge-sources/knowledge-sources.md)開始。 只有在設定新隊友時，才能返回使用者和存取管理。
