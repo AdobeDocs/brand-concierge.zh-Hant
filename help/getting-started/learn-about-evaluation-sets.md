@@ -32,6 +32,6 @@ ht-degree: 0%
 * 如何執行評估並檢閱整體分數和標幟的問題
 * 如何比較禮賓人員的實際回應，與每個標幟問題的預期回應
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502671?captions=chi_hant)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。

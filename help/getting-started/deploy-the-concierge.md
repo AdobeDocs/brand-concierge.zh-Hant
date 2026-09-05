@@ -32,6 +32,6 @@ ht-degree: 0%
 * 元件安裝與指令碼的完整頁面安裝選項比較
 * 如何透過比對領域和路徑（任何、開頭為、結尾為、等於）來設定曲面規則
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502990?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[部署服務人員](../documentation/deployment/deployment.md)。
