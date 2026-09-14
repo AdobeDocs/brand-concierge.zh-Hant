@@ -2,13 +2,11 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
+source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 16%
-
 ---
-
 
 # Adobe Brand Concierge {#content}
 
@@ -52,4 +50,5 @@ ht-degree: 16%
     + [分析門房績效](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ [語音交談](../getting-started/voice-conversation.md)
