@@ -31,6 +31,6 @@ Adobe Brand Concierge支援擴音的語音交談模式，客戶可與服務人�
 * 禮賓人員如何保持完整的多模式體驗，在語音交談期間仍會傳回影像、文字和連結
 * 如果不再需要聲音，如何關閉聲音
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503495?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
