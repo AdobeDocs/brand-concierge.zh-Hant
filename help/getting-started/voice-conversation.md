@@ -8,14 +8,14 @@ doc-type: Technical Video
 duration: 215
 last-substantial-update: 2026-09-14
 jira: KT-22594
-source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
+source-git-commit: e15924679ac2731ef367416160368459ef88167a
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 ---
 # 語音交談
 
-Adobe Brand Concierge支援擴音的語音交談模式，客戶可與服務人員交談，不必輸入內容。 本影片逐步解說如何啟用語音模式、自動語音偵測如何移除按下任何按鈕的需求，以及語音如何配合禮賓人員的完整多模式體驗以及文字和視覺回應。
+Adobe Brand Concierge支援擴音的語音交談模式，客戶可與服務人員交談，不必輸入內容。 此影片說明如何啟用語音模式、自動語音偵測如何移除按下任何按鈕的需求，以及語音如何配合禮賓人員的完整多模式體驗以及文字和視覺回應。
 
 ## 這部影片是給誰看的？
 
