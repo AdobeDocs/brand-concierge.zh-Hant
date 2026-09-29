@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 6a2f85d34995ed1d3c471f7ab658ca8cfe4edb83
+source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 15%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -25,6 +25,7 @@ ht-degree: 16%
   + [歡迎使用您的上線歷程](../go-live/welcome.md)
   + [準備您的內容和訪客體驗](../go-live/content-and-journey.md)
   + [塑造您的聲音和Widget](../go-live/voice-and-visuals.md)
+  + [測量品質和設定護欄](../go-live/measuring-quality-and-setting-guardrails.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
   + [會議](../documentation/meetings.md)
