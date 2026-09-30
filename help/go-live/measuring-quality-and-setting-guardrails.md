@@ -1,5 +1,5 @@
 ---
-title: 測量品質並設定護欄 — 影片
+title: 測量品質並設定護欄
 description: 瞭解如何建立金色問題集和理想答案來衡量Adobe Brand Concierge品質，並定義敏感訪客問題的護欄。
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ ht-degree: 0%
 * 要包含多少問題與答案組，以及要涵蓋哪些類別
 * 為什麼範圍外的範例很重要，以及門房如何拒絕這些範例
 * 使用AI產生的黃金集初稿並加以修訂
-* 定義會議預訂、即時代表移交、定價、法律宣告和競爭者提及的規則
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
