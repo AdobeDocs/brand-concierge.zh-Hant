@@ -6,15 +6,22 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 226
-last-substantial-update: 2026-05-27T00:00:00Z
+last-substantial-update: 2026-05-27T00:00:00.000Z
 jira: KT-20737
-source-git-commit: 5eafcffb1c812ae71326ccde9d2d0440c522db60
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 
 # 瞭解資料串流ID
 
@@ -34,6 +41,6 @@ ht-degree: 0%
 
 <!-- Replace the video ID in the URL below with your Adobe Media Player asset ID when published. -->
 
->[!VIDEO](https://video.tv.adobe.com/v/3491544?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491535?learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。

@@ -1,13 +1,14 @@
 ---
 title: 建置並測試您的第一個Brand Concierge
 description: 建立門房、自訂品牌體驗、執行評估，以及分享利害關係人的意見回饋的預覽連結。
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
-
 ---
-
 # 建置並測試您的第一個Brand Concierge
 
 本文會逐步說明如何建立服務人員，以及準備好進行檢閱，從初始設定到共用以提供意見反應。

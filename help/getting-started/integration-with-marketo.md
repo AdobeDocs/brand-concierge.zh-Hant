@@ -6,15 +6,22 @@ level: Beginner
 duration: 215
 topic: Integrations
 doc-type: Tutorial
-last-substantial-update: 2026-06-10T00:00:00Z
+last-substantial-update: 2026-06-10T00:00:00.000Z
 jira: KT-21468
-source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
-
 ---
-
 # 與Marketo整合
 
 瞭解Brand Concierge如何關閉您的網站與Marketo Engage之間的回圈。 瞭解訪客交談（從聊天中潛在客戶擷取到會議預訂）如何以原生活動資料的形式自動流入Marketo，以及如何將該資料用於觸發和批次Smart Campaigns。
@@ -29,6 +36,6 @@ ht-degree: 0%
 * 潛在客戶的「活動記錄」中記錄的原生「在禮賓處排程的會議」活動型態，具有完整內容：會議持續時間、銷售步驟、路由型態及預訂狀態
 * 如何在Marketo智慧行銷活動中使用Brand Concierge活動型別，作為觸發器、篩選器或批次行銷活動資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3492234?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。

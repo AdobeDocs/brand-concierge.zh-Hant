@@ -2,13 +2,14 @@
 title: 建立和管理Brand Concierge的知識來源
 description: 瞭解如何為Brand Concierge建立AEM Sites、網站連結和產品目錄知識來源、監控處理狀態和解決抓取問題。
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # 建立和管理Brand Concierge的知識來源
 
