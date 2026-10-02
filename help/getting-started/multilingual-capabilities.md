@@ -38,6 +38,6 @@ Adobe Brand Concierge可以您建立禮賓服務時選取的語言回應。 知�
 * 選取的回應語言如何影響答案和入門提示卡
 * 匯入的知識來源（例如目錄和網站URL）如何支援本地化的回應
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503897?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。

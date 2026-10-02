@@ -39,7 +39,7 @@ Adobe Brand Concierge只能回答您的問題，以及您提供的內容。 在�
 * 如何在共用內容之前準備內容
 * 如何撰寫單頁訪客歷程定義
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496016/?captions=chi_hant&learn=on)
 
 ## 此系列的相關影片
 

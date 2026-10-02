@@ -41,6 +41,6 @@ ht-degree: 0%
 * 為什麼範圍外的範例很重要，以及門房如何拒絕這些範例
 * 使用AI產生的黃金集初稿並加以修訂
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503951/?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
