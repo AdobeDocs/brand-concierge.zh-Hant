@@ -3,13 +3,22 @@ title: 技能與整合架構
 description: 瞭解技能和整合在禮賓架構中如何搭配運作。 技能可定義行為，而整合可連線至資料並提供功能。
 role: User, Admin
 level: Beginner
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 技能與整合架構 {#skills-and-integrations}
 
 整合（先前稱為工具）是指與資料來源或後端的連線。 技能是一種行為。

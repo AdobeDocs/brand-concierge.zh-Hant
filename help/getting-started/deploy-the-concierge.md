@@ -1,23 +1,30 @@
 ---
 title: 部署禮賓
-description: 瞭解如何部署Adobe Brand Concierge：設定資料流以追蹤訪客參與情形，然後設定規則以決定門房在您網站上的顯示位置。
+description: 瞭解如何部署Adobe Brand Concierge：設定資料流以追蹤訪客參與情形，然後設定規則以決定禮賓在您網站上出現的位置。
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22483
-source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # 部署禮賓
 
-部署Adobe Brand Concierge後，真正的網站訪客將可使用此功能。 此影片說明如何設定資料流以追蹤訪客參與情形，然後設定表面設定以控制禮賓在哪些頁面和網域上出現。
+部署Adobe Brand Concierge可讓真正的網站訪客使用該工具。 此影片說明如何設定資料流以追蹤訪客參與情形，然後設定表面設定以控制禮賓在哪些頁面和網域上出現。
 
 ## 這部影片是給誰看的？
 
