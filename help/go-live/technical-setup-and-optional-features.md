@@ -41,6 +41,6 @@ ht-degree: 0%
 * 透過代表可用性、訪客觸發器和會議預約遞補啟用即時聊天
 * 連線Marketo Engage以接收銷售機會和活動，具有管理員存取權和功能標幟
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504084/?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
