@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '197'
 ht-degree: 0%
 ---
 
@@ -40,5 +40,14 @@ Adobe Brand Concierge是一款AI支援的助理，位於您的網站上，並使
 * 一般的6至9週時間軸以及影響時間軸的原因
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+
+## 相關教學課程
+
+* [塑造您的聲音和Widget](voice-and-visuals.md)
+* [準備您的內容和訪客歷程](content-and-journey.md)
+* [測量品質和設定護欄](measuring-quality-and-setting-guardrails.md)
+* [技術設定和選購功能](technical-setup-and-optional-features.md)
+* [您的上線前檢查清單和推出計畫](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。

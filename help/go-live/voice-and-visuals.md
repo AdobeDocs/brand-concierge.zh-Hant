@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '180'
 ht-degree: 0%
 ---
 
@@ -40,5 +40,14 @@ ht-degree: 0%
 * 為助理命名、撰寫其問候語，並選擇起始提示
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496951/?captions=chi_hant&learn=on)
+
+## 相關教學課程
+
+* [歡迎使用您的上線歷程](welcome.md)
+* [準備您的內容和訪客歷程](content-and-journey.md)
+* [測量品質和設定護欄](measuring-quality-and-setting-guardrails.md)
+* [技術設定和選購功能](technical-setup-and-optional-features.md)
+* [您的上線前檢查清單和推出計畫](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
