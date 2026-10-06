@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '185'
 ht-degree: 0%
 ---
 
@@ -39,11 +39,16 @@ Adobe Brand Concierge只能回答您的問題，以及您提供的內容。 在�
 * 如何在共用內容之前準備內容
 * 如何撰寫單頁訪客歷程定義
 
->[!VIDEO](https://video.tv.adobe.com/v/3496016/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
 
-## 此系列的相關影片
+## 相關教學課程
 
 * [歡迎使用您的上線歷程](welcome.md)
+* [塑造您的聲音和Widget](voice-and-visuals.md)
+* [測量品質和設定護欄](measuring-quality-and-setting-guardrails.md)
+* [技術設定和選購功能](technical-setup-and-optional-features.md)
+* [您的上線前檢查清單和推出計畫](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## 文件
 
