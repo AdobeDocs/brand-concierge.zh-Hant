@@ -46,6 +46,6 @@ ht-degree: 0%
 * [準備您的內容和訪客歷程](content-and-journey.md)
 * [測量品質和設定護欄](measuring-quality-and-setting-guardrails.md)
 * [技術設定和選購功能](technical-setup-and-optional-features.md)
-* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/zh-hant/playlists/brand-concierge-go-live-checklist)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
