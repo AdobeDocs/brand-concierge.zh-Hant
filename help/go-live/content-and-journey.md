@@ -48,7 +48,7 @@ Adobe Brand Concierge只能回答您的問題，以及您提供的內容。 在�
 * [測量品質和設定護欄](measuring-quality-and-setting-guardrails.md)
 * [技術設定和選購功能](technical-setup-and-optional-features.md)
 * [您的上線前檢查清單和推出計畫](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/zh-hant/playlists/brand-concierge-go-live-checklist)
 
 ## 文件
 

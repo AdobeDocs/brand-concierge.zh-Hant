@@ -50,6 +50,6 @@ ht-degree: 0%
 * [準備您的內容和訪客歷程](content-and-journey.md)
 * [技術設定和選購功能](technical-setup-and-optional-features.md)
 * [您的上線前檢查清單和推出計畫](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge上線檢查清單播放清單](https://experienceleague.adobe.com/zh-hant/playlists/brand-concierge-go-live-checklist)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
