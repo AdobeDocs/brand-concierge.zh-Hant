@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 14%
+source-wordcount: '190'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -21,6 +21,8 @@ ht-degree: 14%
   + [自訂禮賓的視覺風格](../getting-started/customize-visual-style.md)
   + [瞭解評估集](../getting-started/learn-about-evaluation-sets.md)
   + [部署禮賓](../getting-started/deploy-the-concierge.md)
+  + [使用Adobe CX Enterprise Coworker匯出交談](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [使用查詢服務和終端機匯出交談](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + 上線指南 {#go-live-guide}
   + [歡迎使用您的上線歷程](../go-live/welcome.md)
   + [準備您的內容和訪客體驗](../go-live/content-and-journey.md)
@@ -34,7 +36,7 @@ ht-degree: 14%
   + [技能與整合架構](../documentation/skills-and-integrations.md)
   + [開發人員和自訂指南](../documentation/developer-customization-guide.md)
   + [常見問題集](../documentation/brand-concierge-faq.md)
-  + 概觀 {#overview}
+  + 概覽 {#overview}
     + [Brand Concierge概觀](../documentation/overview/overview.md)
     + [您的第一個Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + 使用者和存取管理 {#user-and-access-management}
