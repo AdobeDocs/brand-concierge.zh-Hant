@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # 啟用語音交談
@@ -25,13 +25,13 @@ Adobe Brand Concierge中的語音對話可讓訪客與服務生交談，而不�
 
 ## 如何啟用語音
 
-1. 在&#x200B;**首頁**&#x200B;畫面的&#x200B;**您的服務人員**&#x200B;下方，選取您要編輯的服務人員。
+1. 在&#x200B;**首頁**&#x200B;畫面的&#x200B;**您的服務人員**&#x200B;下方，選取您要啟用語音的服務人員。
 
-   ![Brand Concierge主畫面的Adobe門房卡反白顯示於「您的門房」底下](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Concierge主畫面的Adobe門房卡反白顯示於「您的門房」底下](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. 在&#x200B;**設計**&#x200B;索引標籤中，選取&#x200B;**語音**。
 
-   在Brand Expression下方的左側面板中，以「語音」選項反白顯示禮賓的![設計標籤](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   在Brand Expression下方的左側面板中，以「語音」選項反白顯示禮賓的![設計標籤](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Adobe Brand Concierge中的語音對話可讓訪客與服務生交談，而不�
 
 ## 如何停用語音
 
-1. 在&#x200B;**首頁**&#x200B;畫面的&#x200B;**您的服務人員**&#x200B;下方，選取您要編輯的服務人員。
+1. 在&#x200B;**首頁**&#x200B;畫面的&#x200B;**您的服務人員**&#x200B;下方，選取您要停用語音的服務人員。
 
 1. 在&#x200B;**設計**&#x200B;索引標籤中，選取&#x200B;**語音**。
 
