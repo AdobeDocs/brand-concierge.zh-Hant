@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: de739f5ff45550a953e88a62c42c6beade126a96
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # 使用Adobe CX Enterprise Coworker匯出交談
@@ -28,11 +28,11 @@ ht-degree: 0%
 * 瞭解為何影片中顯示的CSV下載需要Data Distiller
 * 儲存可能包含個人識別資訊(PII)的匯出專案時，請遵循您組織的資料處理原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3504555?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3504546)
 
 >[!NOTE]
 >
-> 如果您的組織無法使用Data Distiller，Co-worker將無法建立此影片中顯示的CSV下載專案。
+> 如果您的組織無法使用Data Distiller，Co-worker將無法建立此影片中顯示的CSV下載專案。 選取[觀看[查詢服務]和[終端機]影片](exporting-conversations-using-query-service-and-terminal.md)，瞭解如何使用[終端機]將交談資料匯出至CSV檔案。
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
 
