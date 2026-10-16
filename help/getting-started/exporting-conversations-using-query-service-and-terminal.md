@@ -29,7 +29,7 @@ ht-degree: 0%
 * 選取資料集和日期範圍，然後將查詢結果匯出至本機CSV檔案
 * 檢查匯出的結果，並在必要時重新整理過期的認證
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504652?captions=chi_hant)
 
 ```bash
 psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"

@@ -28,7 +28,7 @@ ht-degree: 0%
 * 瞭解為何影片中顯示的CSV下載需要Data Distiller
 * 儲存可能包含個人識別資訊(PII)的匯出專案時，請遵循您組織的資料處理原則
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504555?captions=chi_hant)
 
 >[!NOTE]
 >
