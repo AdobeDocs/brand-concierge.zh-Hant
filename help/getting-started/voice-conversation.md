@@ -5,8 +5,8 @@ topic: Personalization
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 215
-last-substantial-update: 2026-09-14T00:00:00.000Z
+duration: 217
+last-substantial-update: 2026-09-14
 jira: KT-22594
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 23b94b6718471b98a00271cde8f95b7c1aa6b876
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '195'
 ht-degree: 0%
 ---
 # 語音交談
@@ -40,6 +40,7 @@ Adobe Brand Concierge支援擴音的語音交談模式，讓客戶與服務人�
 * 禮賓人員如何保持完整的多模式體驗，在語音交談期間仍會傳回影像、文字和連結
 * 如果不再需要聲音，如何關閉聲音
 
->[!VIDEO](https://video.tv.adobe.com/v/3503495?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
 如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
+如需有關啟用此功能的檔案，請參閱[啟用語音](../documentation/voice-conversation.md)
