@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## 分析Marketo Engage中的禮賓參與 {#marketo}
 
-如需更深入的分段（包括交談分數、路由型別和放棄的會議預約），請在[!DNL Marketo Engage]中使用禮賓活動型別。 檢視Marketo Engage](marketo-activities.md)中的[Brand Concierge資料。
+如需更深入的分段（包括交談分數、路由型別和放棄的會議預約），請在[!DNL Marketo Engage]中使用禮賓活動型別。 檢視Marketo Engage[&#128279;](marketo-activities.md)中的Brand Concierge資料。
