@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # 在Adobe Marketo Qualifier中設定代表 {#representative-setup}
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    行事曆連線期間顯示的![Microsoft帳戶選擇器](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. 檢閱訪客預約與您會議時傳送給您的確認電子郵件。
+1. 檢閱訪客在您預約會議時收到的確認電子郵件。
 
    系統會為您設定預設的主旨列和內文。 編輯其中一個，並選擇是否要在邀請中包含[!DNL Microsoft Teams]會議連結。
 
@@ -112,7 +112,7 @@ ht-degree: 1%
 
 ## 檢閱已設定的使用者 {#manage-members}
 
-**僅限系統管理員。** 在「**[!UICONTROL 管理]**」下，選取「**[!UICONTROL 管理成員]**」，可在一個位置檢視每個代表的狀態：誰已連線行事曆、誰已設定即時聊天可用性，以及誰已中斷行事曆連線。
+本節僅供管理員使用。 在「**[!UICONTROL 管理]**」下，選取「**[!UICONTROL 管理成員]**」，可在一個位置檢視每個代表的狀態：誰已連線行事曆、誰已設定即時聊天可用性，以及誰已中斷行事曆連線。
 
 在啟用Composer中的整合之前使用此選項。 在這裡沒有連線行事曆的代表不符合會議預約資格，沒有即時聊天可用的代表不符合即時聊天資格。
 

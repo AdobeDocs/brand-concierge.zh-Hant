@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # 預約會議
 
-了解 Adobe Brand Concierge 中的預約會議功能。 此影片教學課程的主題涵蓋面向客戶體驗的實際呈現方式、連接行事曆的管理員設定，以及介紹部分儀表板和報告。
+瞭解Adobe Brand Concierge中的會議預約功能。 此教學影片的主題包括客戶面對體驗的外觀、連線行事曆的管理員設定，以及某些儀表板和報表的檢視。
 
 ## 這部影片是給誰看的？
 
@@ -48,6 +48,6 @@ ht-degree: 49%
 * 了解轉送到即時代理程式的速度和輕鬆程度
 * 探索如何管理和設定這些工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3478545?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 如需更多檔案，請參閱[即時聊天與會議預訂](../documentation/sales-handoff/overview.md)。

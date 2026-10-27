@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # 啟用語音交談
@@ -66,3 +66,7 @@ Adobe Brand Concierge中的語音對話可讓訪客與服務生交談，而不�
 1. 在&#x200B;**設計**&#x200B;索引標籤中，選取&#x200B;**語音**。
 
 1. 在&#x200B;_語音_&#x200B;面板中，停用您要關閉的選項，然後選取&#x200B;**儲存**。
+
+## 影片示範
+
+若要檢視語音交談的實際運作情況，請檢視[視訊示範](/help/getting-started/voice-conversation.md)。

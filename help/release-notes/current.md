@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Adobe Brand Concierge遵循持續傳遞模式，允許Adobe持續提供新功能
 
 * **即時交談的交談評分**：銷售代表在關閉即時交談之前，以0到3的級數為每一個交談評分，從最低到最合格。 此分數會儲存在潛在客戶記錄中，並作為對Marketo Engage篩選器和觸發器的限制提供，因此它可以推動潛在客戶評分、重新目標定位、個人化和CRM移交。 檢視[為交談評分](../documentation/sales-handoff/chat-inbox.md#conversation-score)。
 
-* **Marketo Engage設定檔中的Brand Concierge活動**：門房參與作為三種原生活動型別寫入Marketo人員記錄：參與門房、在門房中安排會議以及在門房中參與即時交談。 這三者都可作為「智慧列示」中的觸發器和篩選器，並包含諸如交談分數、會議狀態、路由型別和銷售代表等限制。 檢視Marketo Engage[&#128279;](../documentation/sales-handoff/marketo-activities.md)中的Brand Concierge資料。
+* **Marketo Engage設定檔中的Brand Concierge活動**：門房參與作為三種原生活動型別寫入Marketo人員記錄：參與門房、在門房中安排會議以及在門房中參與即時交談。 這三者都可作為「智慧列示」中的觸發器和篩選器，並包含諸如交談分數、會議狀態、路由型別和銷售代表等限制。 檢視Marketo Engage](../documentation/sales-handoff/marketo-activities.md)中的[Brand Concierge資料。
 
 * **訪客面板中的完整Marketo設定檔**：聊天收件匣會在對話中同時顯示訪客的設定檔，包括他們在聊天前表單中分享的詳細資料，讓代表在回覆前擁有完整內容。
 
@@ -28,7 +28,7 @@ Adobe Brand Concierge遵循持續傳遞模式，允許Adobe持續提供新功能
 
 ## 2026 年 9 月 {#september-2026}
 
-* **Composer 2.0**&#x200B;中的Live Chat和Meeting Booking： Live Chat和Meeting Booking在Composer的Browse整合面板中是內建的整合，而新的銷售技能移交會根據訪客的意圖決定何時提供這些功能。 請參閱[啟用Live Chat與會議預訂](../documentation/sales-handoff/configure-in-composer.md)。
+* **Composer 2.0**&#x200B;中的Live Chat和Meeting Booking： Live Chat和Meeting Booking是以Composer的Browse整合面板中的內建整合形式提供，而新的銷售技能移交會根據訪客意圖決定何時提供這些功能。 檢視[啟用即時聊天和會議預訂](../documentation/sales-handoff/configure-in-composer.md)。
 
 * **自訂路由規則**：在Marketo銷售機會和公司屬性上建立路由規則，使用多個條件群組結合AND和OR、優先順序化的規則以及多個指派的代表，將訪客傳送給適當的代表。 自訂路由會同時套用至會議預約和即時交談。 檢視[將交談路由給代表](../documentation/sales-handoff/routing-rules.md)。
 

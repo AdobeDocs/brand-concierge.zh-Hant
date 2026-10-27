@@ -17,7 +17,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -33,9 +33,9 @@ ht-degree: 0%
 ## 視訊內容
 
 * 訪客對話如何從Brand Concierge流入Marketo — 從聊天中潛在客戶擷取和會議預約到自動建立潛在客戶
-* 潛在客戶的「活動記錄」中記錄的原生「在禮賓處排程的會議」活動型態，具有完整內容：會議持續時間、銷售步驟、路由型態及預訂狀態
+* 潛在客戶的「活動記錄」中記錄的原生「在禮賓處排程會議」活動型態，具有完整內容：會議持續時間、銷售步驟、路由型態及預訂狀態
 * 如何在Marketo智慧行銷活動中使用Brand Concierge活動型別，作為觸發器、篩選器或批次行銷活動資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3492259?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
 如需相關檔案，請參閱[Marketo Engage中的Brand Concierge資料](../documentation/sales-handoff/marketo-activities.md)。

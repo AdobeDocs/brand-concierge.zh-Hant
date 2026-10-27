@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1703'
 ht-degree: 0%
 ---
 # 技能與整合架構 {#skills-and-integrations}
@@ -81,8 +81,8 @@ _網站諮詢技能範例_
 | 內容AI 搜尋 | 透過Content AI搜尋品牌內容 | 替代內容來源；通常一次只需要其中一個知識庫搜尋或內容AI 搜尋 |
 | 實體連結 | 將使用者訊息中的一個或多個產品或品牌提及解析至特定目錄實體 | 支援整合，與搜尋整合搭配使用，而非單獨使用 |
 | COMMERCE MCP | Adobe管理的Commerce MCP伺服器：產品搜尋、詳細資訊、變體，以及Facet/屬性探索，並由Adobe Live Search提供支援 | 不在基準線中；針對Commerce使用案例手動新增 |
-| 會議預訂 | 可讓訪客預約與銷售代表會面 | 需要透過隨附[!DNL Adobe Marketo Qualifier]產品設定銷售代表的行事曆。 檢視[即時聊天和會議預訂](sales-handoff/overview.md) |
-| 即時交談 | 將訪客與即時銷售代表連結 | 需要透過隨附[!DNL Adobe Marketo Qualifier]產品設定銷售代表的可用性。 檢視[即時聊天和會議預訂](sales-handoff/overview.md) |
+| 會議預訂 | 可讓訪客預約與銷售代表會面 | 需要透過隨附[!DNL Adobe Marketo Qualifier]產品設定銷售代表的行事曆。 檢視[即時聊天和會議預訂](sales-handoff/overview.md)。 |
+| 即時交談 | 將訪客與即時銷售代表連結 | 需要透過隨附[!DNL Adobe Marketo Qualifier]產品設定銷售代表的可用性。 檢視[即時聊天和會議預訂](sales-handoff/overview.md)。 |
 
 ![瀏覽整合面板，顯示四個整合卡：內容AI 搜尋、實體連結、知識庫搜尋及Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,7 +96,7 @@ _網站諮詢技能範例_
 | 產品諮詢 | 探索和研究產品：名稱型產品卡和散文產品問題 | 知識庫搜尋，實體連結 |
 | Adobe Commerce目錄探索 | 根據即時目錄搜尋、瀏覽、篩選和取得產品的完整詳細資料 | Commerce MCP工具：搜尋Commerce產品、產品詳細資訊、產品變體、產品Facet和可搜尋的屬性 |
 | Adobe Commerce產品比較 | Commerce表格中兩個或多個具名產品的並排比較 | Commerce MCP工具：搜尋Commerce產品、產品詳細資料 |
-| 移交給銷售人員 | 透過可用工具連線訪客與公司顧問：建議並促成即時聊天或會議預訂。 檢視[啟用Live Chat與會議預訂](sales-handoff/configure-in-composer.md) | Live Chat、會議預訂 |
+| 移交給銷售人員 | 根據訪客意圖，透過即時聊天或會議預約將訪客與銷售代表連線。 檢視[啟用即時聊天和會議預訂](sales-handoff/configure-in-composer.md)。 | Live Chat、會議預訂 |
 
 這兩種商務技能是僅限目錄的功能，並取決於Commerce MCP整合，而這不屬於基準線的一部分。 在非商業服務人員中，網站諮詢和產品諮詢會針對自動建立的知識庫搜尋執行。
 

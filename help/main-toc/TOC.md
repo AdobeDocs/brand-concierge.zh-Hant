@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 13%
@@ -48,10 +48,10 @@ ht-degree: 13%
   + 禮賓管理 {#concierge-management}
     + [管理門房](../documentation/concierge-management/concierge-management.md)
   + Live Chat和會議預訂 {#sales-handoff}
-    + [概覽](../documentation/sales-handoff/overview.md)
+    + [概觀](../documentation/sales-handoff/overview.md)
     + [設定代表](../documentation/sales-handoff/representative-setup.md)
     + [將交談路由給代表](../documentation/sales-handoff/routing-rules.md)
-    + [啟動Live Chat和會議預訂](../documentation/sales-handoff/configure-in-composer.md)
+    + [啟動即時聊天和會議預訂](../documentation/sales-handoff/configure-in-composer.md)
     + [聊天收件匣](../documentation/sales-handoff/chat-inbox.md)
     + [Marketo Engage中的Brand Concierge資料](../documentation/sales-handoff/marketo-activities.md)
     + [監視會議和即時聊天](../documentation/sales-handoff/monitor.md)
@@ -65,4 +65,4 @@ ht-degree: 13%
     + [分析門房績效](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
