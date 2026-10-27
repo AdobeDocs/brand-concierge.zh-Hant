@@ -20,7 +20,7 @@ Adobe Brand Concierge遵循持續傳遞模式，允許Adobe持續提供新功能
 
 * **即時交談的交談評分**：銷售代表在關閉即時交談之前，以0到3的級數為每一個交談評分，從最低到最合格。 此分數會儲存在潛在客戶記錄中，並作為對Marketo Engage篩選器和觸發器的限制提供，因此它可以推動潛在客戶評分、重新目標定位、個人化和CRM移交。 檢視[為交談評分](../documentation/sales-handoff/chat-inbox.md#conversation-score)。
 
-* **Marketo Engage設定檔中的Brand Concierge活動**：門房參與作為三種原生活動型別寫入Marketo人員記錄：參與門房、在門房中安排會議以及在門房中參與即時交談。 這三者都可作為「智慧列示」中的觸發器和篩選器，並包含諸如交談分數、會議狀態、路由型別和銷售代表等限制。 檢視Marketo Engage](../documentation/sales-handoff/marketo-activities.md)中的[Brand Concierge資料。
+* **Marketo Engage設定檔中的Brand Concierge活動**：門房參與作為三種原生活動型別寫入Marketo人員記錄：參與門房、在門房中安排會議以及在門房中參與即時交談。 這三者都可作為「智慧列示」中的觸發器和篩選器，並包含諸如交談分數、會議狀態、路由型別和銷售代表等限制。 檢視Marketo Engage[&#128279;](../documentation/sales-handoff/marketo-activities.md)中的Brand Concierge資料。
 
 * **訪客面板中的完整Marketo設定檔**：聊天收件匣會在對話中同時顯示訪客的設定檔，包括他們在聊天前表單中分享的詳細資料，讓代表在回覆前擁有完整內容。
 

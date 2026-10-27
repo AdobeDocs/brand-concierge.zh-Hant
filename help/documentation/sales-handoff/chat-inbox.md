@@ -77,7 +77,7 @@ ht-degree: 1%
 
 ![確認交談分數已儲存](../assets/sales-handoff-inbox-3.png){width="800" zoomable="yes"}
 
-此分數會寫入[!DNL Marketo Engage]中的&#x200B;**[!UICONTROL Engage with Live Chat in Concierge]**&#x200B;活動，可作為篩選器和觸發器的限制。 使用它來推動重新目標定位、潛在客戶評分、個人化和CRM移交。 檢視Marketo Engage](marketo-activities.md)中的[Brand Concierge資料。
+此分數會寫入[!DNL Marketo Engage]中的&#x200B;**[!UICONTROL Engage with Live Chat in Concierge]**&#x200B;活動，可作為篩選器和觸發器的限制。 使用它來推動重新目標定位、潛在客戶評分、個人化和CRM移交。 檢視Marketo Engage[&#128279;](marketo-activities.md)中的Brand Concierge資料。
 
 ## 結束聊天 {#end-chat}
 

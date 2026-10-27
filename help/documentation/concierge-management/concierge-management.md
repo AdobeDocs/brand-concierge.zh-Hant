@@ -203,7 +203,7 @@ Meeting Booking和Live Chat可讓訪客預約與銷售代表的會議或開始�
 
 - 在[聊天收件匣](../sales-handoff/chat-inbox.md)中即時向可用的代表顯示連入的即時聊天。
 - 預訂的會議會出現在會議檢視中，而且會議效能報告可在Analytics中使用。 檢視[監視會議與即時聊天](../sales-handoff/monitor.md)。
-- 會議和聊天參與會以活動的形式連同現有的活動資料一起傳送到Marketo。 檢視Marketo Engage](../sales-handoff/marketo-activities.md)中的[Brand Concierge資料。
+- 會議和聊天參與會以活動的形式連同現有的活動資料一起傳送到Marketo。 檢視Marketo Engage[&#128279;](../sales-handoff/marketo-activities.md)中的Brand Concierge資料。
 
 ## 共用預覽連結
 
