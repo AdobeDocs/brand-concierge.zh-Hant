@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '223'
 ht-degree: 13%
 ---
 
@@ -32,12 +32,11 @@ ht-degree: 13%
   + [您的上線前檢查清單和推出計畫](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
-  + [會議](../documentation/meetings.md)
   + [技能與整合架構](../documentation/skills-and-integrations.md)
   + [開發人員和自訂指南](../documentation/developer-customization-guide.md)
   + [語音交談](../documentation/voice-conversation.md)
   + [常見問題集](../documentation/brand-concierge-faq.md)
-  + 概覽 {#overview}
+  + 概觀 {#overview}
     + [Brand Concierge概觀](../documentation/overview/overview.md)
     + [您的第一個Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + 使用者和存取管理 {#user-and-access-management}
@@ -48,6 +47,14 @@ ht-degree: 13%
     + [建立和管理Brand Concierge的知識來源](../documentation/knowledge-sources/knowledge-sources.md)
   + 禮賓管理 {#concierge-management}
     + [管理門房](../documentation/concierge-management/concierge-management.md)
+  + Live Chat和會議預訂 {#sales-handoff}
+    + [概覽](../documentation/sales-handoff/overview.md)
+    + [設定代表](../documentation/sales-handoff/representative-setup.md)
+    + [將交談路由給代表](../documentation/sales-handoff/routing-rules.md)
+    + [啟動Live Chat和會議預訂](../documentation/sales-handoff/configure-in-composer.md)
+    + [聊天收件匣](../documentation/sales-handoff/chat-inbox.md)
+    + [Marketo Engage中的Brand Concierge資料](../documentation/sales-handoff/marketo-activities.md)
+    + [監視會議和即時聊天](../documentation/sales-handoff/monitor.md)
   + 評估 {#evaluation}
     + [評估服務人員](../documentation/evaluation/evaluation.md)
   + 部署 {#deployment}

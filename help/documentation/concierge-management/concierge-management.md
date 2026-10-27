@@ -5,9 +5,9 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1702'
 ht-degree: 1%
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 服務人員是從品牌網站建立的，可以透過整合、技能、指示、音調和語音設定、視覺樣式和聊天元件加以改良。 在您故意將服務人員部署給訪客之前，請使用預覽來測試變更。
 
-## 概觀
+## 概覽
 
 | 項目 | 詳細資料 |
 |---|---|
@@ -77,8 +77,8 @@ Composer是用來建立和設定禮賓服務的介面，使用兩個相關的概
 | 內容AI 搜尋 | 搜尋AEM Sites內容 | 與AEM Sites as a Cloud Service的客戶相關 |
 | 實體連結 | 將訪客訊息中的一個或多個產品和品牌提及解析至特定目錄實體 | 支援整合，通常與搜尋整合搭配使用，而非單獨使用 |
 | COMMERCE MCP | 連線到即時Adobe Commerce目錄以進行產品搜尋、產品詳細資料和比較 | 預設未啟用；需要商務或IT團隊的程式碼或金鑰 |
-| 會議預訂 | 允許訪客預約與銷售代表會面 | 需要使用銷售代表的行事曆進行設定 |
-| 即時交談 | 將訪客與即時銷售代表連結 | 需要設定銷售代表的可用性 |
+| 會議預訂 | 允許訪客預約與銷售代表會面 | 需要使用銷售代表的行事曆進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md) |
+| 即時交談 | 將訪客與即時銷售代表連結 | 需要以銷售代表的可用性進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md) |
 
 ### 開啟並設定整合
 
@@ -107,8 +107,7 @@ Composer是用來建立和設定禮賓服務的介面，使用兩個相關的概
 | 產品諮詢 | 協助訪客透過名稱型產品卡片及散文產品問題，來發現及研究產品 | 知識庫搜尋，實體連結 |
 | Adobe Commerce目錄探索 | 搜尋、瀏覽、篩選和擷取即時目錄中產品的詳細資訊 | Commerce MCP整合 |
 | Adobe Commerce產品比較 | 提供已命名產品的並排比較 | Commerce MCP整合 |
-| 預約銷售會議 | 建議並方便預約會議 | Meeting Booking整合 |
-| 與銷售人員即時交談 | 建議並加速即時聊天切換 | 即時聊天整合 |
+| 移交給銷售人員 | 建議並協助與銷售代表或會議預約進行即時交談 | Live Chat整合、Meeting Booking整合 |
 
 ### 開啟並設定技能
 
@@ -179,34 +178,22 @@ Composer是用來建立和設定禮賓服務的介面，使用兩個相關的概
 
 ## 設定會議預約與即時交談
 
-Meeting Booking和Live Chat可讓訪客預約與銷售代表的會議或開始與代表的即時交談。 這些功能由名為Sales Qualifier的隨附產品提供支援。
+Meeting Booking和Live Chat可讓訪客預約與銷售代表的會議或開始與代表的即時交談。 這些功能由名為[!DNL Adobe Marketo Qualifier]的隨附產品提供支援，並透過&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能提供給訪客。
 
 ### 角色與職責
 
 - **行銷人員：**&#x200B;設定Brand Concierge中的技能與整合。
-- **銷售代表：**&#x200B;連線自己的行事曆並設定可用性。
+- **銷售代表：**&#x200B;連線他們自己的行事曆並在[!DNL Adobe Marketo Qualifier]中設定可用性。
 
 ### 設定會議預約或即時交談
 
-1. 在&#x200B;**瀏覽整合**&#x200B;中，開啟&#x200B;**Meeting Booking**&#x200B;或&#x200B;**即時交談**。 依預設，組織中的所有人都可作為潛在團隊成員使用；在此階段不需要個別步驟即可新增團隊成員。
+如需完整程式，請參閱[即時聊天與會議預訂](../sales-handoff/overview.md)。 此設定包含四個部分：
 
-1. 請每個銷售代表登入`experienceplatform.adobe.com`、開啟&#x200B;**Sales Qualifier**，然後前往&#x200B;**設定檔設定**。
+1. [在Adobe Marketo Qualifier中設定代表](../sales-handoff/representative-setup.md) — 連線行事曆、定義確認電子郵件，並設定行事曆和即時聊天可用性。
 
-1. 讓每位代表連線行事曆，例如Outlook。 您可選擇加入Microsoft Teams。 代表也可以設定會議邀請主旨和電子郵件文字。
+1. [將交談路由給代表](../sales-handoff/routing-rules.md) — 選擇循環配置資源、直接代理程式或自訂路由規則。
 
-1. 設定可用性。 可用性預設會從行事曆提取，並可能受到以下進一步限制：
-   - 會議長度
-   - 會議之間的緩衝時間
-   - 最低必要通知
-   - 特定可用時間視窗
-
-1. 使用類似的程式個別設定即時聊天可用性。
-
-1. 在Brand Concierge中，開啟&#x200B;**受管理成員**，並確認顯示有可用的代表。
-
-1. 開啟&#x200B;**會議預訂**&#x200B;和/或&#x200B;**即時聊天**&#x200B;整合。
-
-1. 移至&#x200B;**瀏覽技能**&#x200B;並選取&#x200B;**與銷售人員預約會議**&#x200B;和/或&#x200B;**與銷售人員即時交談**。 設定觸發器、附加對應的整合，然後儲存技能。
+1. [啟用Live Chat和Meeting預訂](../sales-handoff/configure-in-composer.md) — 連線&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL Live Chat]**&#x200B;整合，然後啟用&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能。
 
 1. 選取&#x200B;**模擬**&#x200B;以測試端對端體驗。 輸入範例問題，並確認問題已引導至正確的技能與參與流程。
 
@@ -214,10 +201,9 @@ Meeting Booking和Live Chat可讓訪客預約與銷售代表的會議或開始�
 
 功能上線時：
 
-- 連入的即時聊天會即時向可用的代表顯示。
-- 預訂的會議會出現在會議檢視中。
-- 會議效能報告可在Analytics中使用。
-- 會議和聊天參與會以活動的形式連同現有的活動資料一起傳送到Marketo。
+- 在[聊天收件匣](../sales-handoff/chat-inbox.md)中即時向可用的代表顯示連入的即時聊天。
+- 預訂的會議會出現在會議檢視中，而且會議效能報告可在Analytics中使用。 檢視[監視會議與即時聊天](../sales-handoff/monitor.md)。
+- 會議和聊天參與會以活動的形式連同現有的活動資料一起傳送到Marketo。 檢視Marketo Engage[&#128279;](../sales-handoff/marketo-activities.md)中的Brand Concierge資料。
 
 ## 共用預覽連結
 

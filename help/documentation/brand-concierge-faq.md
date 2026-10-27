@@ -1,29 +1,36 @@
 ---
-title: 常見問題集
+title: 常見問題
 description: 取得有關Adobe Brand Concierge常見問題的解答。
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # 常見問題
 
 請閱讀本節，瞭解有關Brand Concierge常見問題的解答。
@@ -141,7 +148,7 @@ Brand Concierge包含內建測試工具：
 
 ### 客戶可以安排與團隊的會議嗎？
 
-可以，客戶可以使用「會議預訂」技能排程與團隊的會議。 若要啟用此功能，請啟動技能設定中的技能、定義啟動意圖（例如「與銷售人員交談」）、連線您的行事曆或排程系統，以及設定您的可用性與會議型別。 設定之後，客戶便可在交談期間要求開會，而Brand Concierge將可簡化排程程式，而不要求他們離開聊天。
+有。 客戶可以使用&#x200B;**移交給銷售人員**&#x200B;的技能，搭配&#x200B;**Meeting Booking**&#x200B;和&#x200B;**即時聊天**&#x200B;整合，來排程與團隊的會議，或開始與代表進行即時聊天。 代表在Adobe Marketo Qualifier中連線行事曆並設定其可用性，您選擇將訪客路由給他們的方式，然後您在「撰寫器」中啟動該技能並定義觸發該技能的意圖。 設定之後，客戶可以在交談期間要求會議或即時交談，而不需離開聊天。 檢視[即時聊天和會議預訂](sales-handoff/overview.md)。
 
 ### 我知識庫中的初始Q&amp;A配對是如何產生的？
 

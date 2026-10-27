@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Brand Concierge說明
 
 瞭解如何設定和使用Brand Concierge的主要功能。 尋找有關設定、資料整合、隱私權、自訂、效能測量和技術要求的常見問題解答。
@@ -116,7 +124,7 @@ Brand Concierge具有許多主要功能，包括：
 
 技能可決定門房可為訪客做什麼，例如&#x200B;**產品諮詢**&#x200B;用於產品建議，或&#x200B;**網站諮詢**&#x200B;用於一般品牌問題。 選取&#x200B;**[!UICONTROL 瀏覽技能]**&#x200B;以檢視可用的技能類別目錄，並開啟門房人員需要的技能。
 
-* **技能目錄：**&#x200B;從可用的技能（例如網站諮詢、產品諮詢）以及支援會議預約或與銷售代表即時交談的技能中選擇。
+* **技能目錄：**&#x200B;從可用的技能中選擇，例如網站諮詢、產品諮詢和[移交給銷售人員](sales-handoff/overview.md)，為訪客提供即時聊天或與銷售代表會面。
 * **組態：**&#x200B;針對每項技能，設定其名稱、說明，以及呼叫該技能的意圖（觸發詞句或主題）。
 * **整合：**&#x200B;附加技能完成工作所需的整合，或選取「**[!UICONTROL 使用建議的]**」，讓Composer自動選取整合。
 * **預覽：**&#x200B;即時預覽中立即測試變更。

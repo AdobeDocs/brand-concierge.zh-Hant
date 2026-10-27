@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # 與Marketo整合
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492259?captions=chi_hant&learn=on)
 
-如需相關檔案，請參閱[Brand Concierge說明](../documentation/overview.md)。
+如需相關檔案，請參閱[Marketo Engage中的Brand Concierge資料](../documentation/sales-handoff/marketo-activities.md)。
