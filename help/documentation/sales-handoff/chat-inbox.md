@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # 聊天收件匣 {#chat-inbox}
 
 當訪客要求與某人交談時，聊天會進入[!DNL Adobe Marketo Qualifier]中的&#x200B;**[!UICONTROL 聊天收件匣]**。 此頁面是代表對即時聊天內容的檢視：您到達時所看到的內容、取得的內容以及在關閉前必須執行的動作。
 
-若要開啟，請在左側面板的&#x200B;**[!UICONTROL 活動]**&#x200B;下選取&#x200B;**[!UICONTROL 聊天收件匣]**。
+若要開啟聊天收件匣，請在&#x200B;**[!UICONTROL 活動]**&#x200B;下方的左側面板中，選取&#x200B;**[!UICONTROL 聊天收件匣]**。
 
 ## 接收聊天 {#receive}
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 | --- | --- | --- |
 | 虛線 | 0 | 最不合格 |
 | 一個火焰 | 1 | 有點資格 |
-| 兩個火焰 | 2 | 合格 |
+| 兩個火焰 | 2 | 已符合資格 |
 | 三種火焰 | 3 | 最合格 |
 
 >[!IMPORTANT]

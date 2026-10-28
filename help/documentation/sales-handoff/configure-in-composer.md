@@ -14,12 +14,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 0%
 ---
-# 啟動Live Chat和會議預訂 {#configure-in-composer}
+# 啟動即時聊天和會議預訂 {#configure-in-composer}
 
 Composer中必須具備兩項功能。 **[!UICONTROL Meeting Booking]**&#x200B;與&#x200B;**[!UICONTROL Live Chat]**&#x200B;整合讓服務人員&#x200B;*能夠*&#x200B;檢查使用狀態、開始聊天以及預約時段。 **[!UICONTROL 移交銷售人員]**&#x200B;技能會告訴它&#x200B;*何時*&#x200B;使用該能力。
 
@@ -27,7 +27,7 @@ Composer中必須具備兩項功能。 **[!UICONTROL Meeting Booking]**&#x200B;�
 >
 >先完成[在Adobe Marketo Qualifier](representative-setup.md)中設定代表。 整合會檢查已連線的行事曆和即時聊天可用性，如果沒有這些行事曆，將無法啟用。
 
-## 連線Meeting Booking整合 {#connect-meeting-booking}
+## 連線會議預約整合 {#connect-meeting-booking}
 
 1. 在Composer中，開啟您的服務生，然後選取&#x200B;**[!UICONTROL 整合]** > **[!UICONTROL 瀏覽整合]**。
 
@@ -100,7 +100,7 @@ Composer中必須具備兩項功能。 **[!UICONTROL Meeting Booking]**&#x200B;�
    | 競爭比較 | 將您的解決方案與競爭對手的替代方案、差異或來自競爭對手平台的遷移進行比較 |
    | 試用和POC存取 | 試用設定、遊樂場存取、概念驗證或試行方案 |
    | 合約與授權變更 | 合約續約、期限延長或計畫升級 |
-   | 採購RFP或RFI | 提交、回覆、供應商問卷、採購表單或法規遵循檔案 |
+   | 採購RFP或RFI | RFP或RFI提交與回覆、廠商問卷、採購表單或法規遵循檔案 |
    | 示範 | 產品示範或逐步說明 |
 
    選取&#x200B;**[!UICONTROL 新增條件]**&#x200B;以新增您自己的目的，或刪除任何不適用於您企業的條件。
@@ -123,6 +123,6 @@ Composer中必須具備兩項功能。 **[!UICONTROL Meeting Booking]**&#x200B;�
 
 當行為正確時，請發佈您的服務人員，讓交接在您的網站上進行。
 
-## 下一步 {#next}
+## 後續步驟 {#next-steps}
 
-您的代表現在可以接收聊天。 請參閱[聊天收件匣](chat-inbox.md)。
+您的代表現在可以接收聊天和會議預約。 若要瞭解代表如何處理聊天，請參閱[聊天收件匣](chat-inbox.md)。

@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # 監視會議和即時聊天 {#monitor}
 
-[!DNL Adobe Marketo Qualifier]保留每次切換的作業記錄：預訂的會議、進行的聊天，以及團隊如何針對這些會議執行。
+[!DNL Adobe Marketo Qualifier]保留每次移交的作業記錄：已預訂的會議、已進行的聊天，以及會議預訂的執行方式。
 
 ## 檢閱預約的會議 {#bookings}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 分析會議績效 {#performance}
 
-在&#x200B;**[!UICONTROL Analytics]**&#x200B;下，選取&#x200B;**[!UICONTROL 會議績效]**&#x200B;以檢閱數個分析類別，包括有多少訪客要求會議以及有多少人錯過。 您也可以看到會議隨時間變化的趨勢，以及哪些代表參加了會議。
+在&#x200B;**[!UICONTROL Analytics]**&#x200B;下，選取&#x200B;**[!UICONTROL 會議效能]**，以檢視訪客要求的會議數、已預訂的會議數，以及錯過的會議數。 您也可以檢視每日、每週和每月的趨勢、已預訂的要求會議的百分比，以及哪些代表參加最多會議。
 
-![會議績效儀表板](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![會議績效儀表板，顯示已要求、已預約和錯過的會議總數，接著是每日錯過的會議圖表以及已預約的請求百分比](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## 分析Marketo Engage中的禮賓參與 {#marketo}
 

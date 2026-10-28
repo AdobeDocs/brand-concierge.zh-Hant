@@ -26,9 +26,9 @@ topic_v2:
     internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1981'
 ht-degree: 1%
 ---
 # 常見問題
@@ -148,7 +148,7 @@ Brand Concierge包含內建測試工具：
 
 ### 客戶可以安排與團隊的會議嗎？
 
-有。 客戶可以使用&#x200B;**移交給銷售人員**&#x200B;的技能，搭配&#x200B;**Meeting Booking**&#x200B;和&#x200B;**即時聊天**&#x200B;整合，來排程與團隊的會議，或開始與代表進行即時聊天。 代表在Adobe Marketo Qualifier中連線行事曆並設定其可用性，您選擇將訪客路由給他們的方式，然後您在「撰寫器」中啟動該技能並定義觸發該技能的意圖。 設定之後，客戶可以在交談期間要求會議或即時交談，而不需離開聊天。 檢視[即時聊天和會議預訂](sales-handoff/overview.md)。
+有。 客戶可以排程與團隊的會議，或透過使用&#x200B;**移交給銷售人員**&#x200B;的技能（包含&#x200B;**Meeting Booking**&#x200B;和&#x200B;**即時聊天**&#x200B;整合）開始與代表進行即時聊天。 代表在Adobe Marketo Qualifier中連線其行事曆並設定其可用性。 您可以選擇將訪客路由到他們的方式，然後在「撰寫器」中啟動該技能，並定義觸發該技能的意圖。 設定之後，客戶可以在交談期間要求會議或即時交談，而不需離開聊天。 檢視[即時聊天和會議預訂](sales-handoff/overview.md)。
 
 ### 我知識庫中的初始Q&amp;A配對是如何產生的？
 

@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ Composer是用來建立和設定禮賓服務的介面，使用兩個相關的概
 | 內容AI 搜尋 | 搜尋AEM Sites內容 | 與AEM Sites as a Cloud Service的客戶相關 |
 | 實體連結 | 將訪客訊息中的一個或多個產品和品牌提及解析至特定目錄實體 | 支援整合，通常與搜尋整合搭配使用，而非單獨使用 |
 | COMMERCE MCP | 連線到即時Adobe Commerce目錄以進行產品搜尋、產品詳細資料和比較 | 預設未啟用；需要商務或IT團隊的程式碼或金鑰 |
-| 會議預訂 | 允許訪客預約與銷售代表會面 | 需要使用銷售代表的行事曆進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md) |
-| 即時交談 | 將訪客與即時銷售代表連結 | 需要以銷售代表的可用性進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md) |
+| 會議預訂 | 允許訪客預約與銷售代表會面 | 需要使用銷售代表的行事曆進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md)。 |
+| 即時交談 | 將訪客與即時銷售代表連結 | 需要以銷售代表的可用性進行設定。 檢視[即時聊天和會議預訂](../sales-handoff/overview.md)。 |
 
 ### 開啟並設定整合
 
@@ -193,7 +193,7 @@ Meeting Booking和Live Chat可讓訪客預約與銷售代表的會議或開始�
 
 1. [將交談路由給代表](../sales-handoff/routing-rules.md) — 選擇循環配置資源、直接代理程式或自訂路由規則。
 
-1. [啟用Live Chat和Meeting預訂](../sales-handoff/configure-in-composer.md) — 連線&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL Live Chat]**&#x200B;整合，然後啟用&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能。
+1. [啟用即時聊天和會議預訂](../sales-handoff/configure-in-composer.md) — 連線&#x200B;**[!UICONTROL Meeting Booking]**&#x200B;和&#x200B;**[!UICONTROL 即時聊天]**&#x200B;整合，然後啟用&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能。
 
 1. 選取&#x200B;**模擬**&#x200B;以測試端對端體驗。 輸入範例問題，並確認問題已引導至正確的技能與參與流程。
 

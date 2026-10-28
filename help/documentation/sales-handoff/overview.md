@@ -15,17 +15,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '768'
 ht-degree: 0%
 ---
 # Live Chat和會議預約總覽 {#overview}
 
 門房可自行回答大多數問題。 某些對話需要人員：訂價交涉、採購問卷、示範請求。 Live Chat和Meeting Booking是Brand Concierge將交談傳遞給人的兩種方式，不會失去訪客已提供的內容。
 
-* **即時聊天**&#x200B;會在相同的聊天視窗中，立即將訪客連線到可用的代表。
-* **會議預訂**&#x200B;會從代表的行事曆提供訪客真正的開放位置，並預訂會議。
+* 即時聊天可在相同聊天視窗中，立即將訪客連線至可用的代表。
+* 會議預約從代表的行事曆為訪客提供真正的開放位置，並預約會議。
 
 兩者皆由相同的技能提供，**[!UICONTROL 移交至銷售人員]**，且兩者都透過[!DNL Adobe Marketo Qualifier] （先前為[!DNL Sales Qualifier]）傳遞，代表可在此連線行事曆、設定其可用性，以及進行聊天。
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 | 整合 | **[!UICONTROL Meeting Booking]**&#x200B;與&#x200B;**[!UICONTROL 即時交談]**&#x200B;可讓服務人員檢查可用性、開始聊天以及預約時段 | 撰寫器> **[!UICONTROL 瀏覽整合]** |
 | 技能 | 根據訪客的意圖，**[!UICONTROL 移交給銷售人員]**&#x200B;決定&#x200B;*何時*&#x200B;提供移交服務 | 撰寫者> **[!UICONTROL 瀏覽技能]** |
 
-在執行階段：訪客說出了符合某項技能的&#x200B;**[!UICONTROL 使用時機]**&#x200B;條件，技能觸發，它會呼叫附加至它的整合專案，路由會解析代表，而訪客會獲得聊天、會議或兩者。
+在執行階段，訪客說的內容符合該技能的&#x200B;**[!UICONTROL 使用時機]**&#x200B;條件。 系統會觸發技能，並呼叫與其附加的任何整合。 路由接著會解析代表，然後為訪客提供聊天、會議或兩者。
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 ![在對話中預約會議卡，顯示月份行事曆和可用時區清單](../assets/sales-handoff-visitor-3.png){width="800" zoomable="yes"}
 
-訪客確認位置後，會傳送代表的確認電子郵件，選擇性地包括[!DNL Microsoft Teams]連結。 交談內容會傳送給收到邀請的代表。
+訪客確認位置後，訪客會收到代表的確認電子郵件，其中可能包含[!DNL Microsoft Teams]連結。 交談內容會傳送給收到邀請的代表。
 
 ## 開始前所需的專案 {#prerequisites}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 1. [在Adobe Marketo Qualifier中設定代表](representative-setup.md) — 連線行事曆、定義確認電子郵件，並設定行事曆和即時聊天可用性。
 1. [將交談路由給代表](routing-rules.md) — 選擇循環配置資源、直接代理程式或建立在[!DNL Marketo]屬性上的自訂規則。
-1. [啟用Live Chat和會議預訂](configure-in-composer.md) — 連線兩個整合併啟用&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能。
+1. [啟動即時聊天和會議預訂](configure-in-composer.md) — 連線兩個整合併啟動&#x200B;**[!UICONTROL 移交給銷售人員]**&#x200B;技能。
 1. [聊天收件匣](chat-inbox.md) — 當聊天到達時，代表會做什麼，包括評分交談。
 1. [Marketo Engage中的Brand Concierge資料](marketo-activities.md) — 回寫至[!DNL Marketo]的潛在客戶欄位和活動型別，以及如何在Smart Campaigns中使用它們。
 1. [監視會議和即時聊天](monitor.md) — 預約清單和績效儀表板。
