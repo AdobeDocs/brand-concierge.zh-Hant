@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
+source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 13%
+source-wordcount: '238'
+ht-degree: 12%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -30,6 +30,8 @@ ht-degree: 13%
   + [測量品質和設定護欄](../go-live/measuring-quality-and-setting-guardrails.md)
   + [技術設定和選購功能](../go-live/technical-setup-and-optional-features.md)
   + [您的上線前檢查清單和推出計畫](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
++ Live Chat和會議預訂 {#live-chat-and-meeting-booking}
+  + [Live Chat和會議預訂：端對端體驗](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
   + [技能與整合架構](../documentation/skills-and-integrations.md)
@@ -65,4 +67,4 @@ ht-degree: 13%
     + [分析門房績效](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
