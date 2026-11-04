@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 12%
+source-wordcount: '247'
+ht-degree: 11%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -32,6 +32,7 @@ ht-degree: 12%
   + [您的上線前檢查清單和推出計畫](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Live Chat和會議預訂 {#live-chat-and-meeting-booking}
   + [Live Chat和會議預訂：端對端體驗](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
+  + [設定即時聊天和會議的可用性和路由](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
   + [技能與整合架構](../documentation/skills-and-integrations.md)
