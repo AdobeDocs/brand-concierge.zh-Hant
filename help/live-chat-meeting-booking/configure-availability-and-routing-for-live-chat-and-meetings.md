@@ -29,6 +29,6 @@ ht-degree: 0%
 * 在「管理成員」中設定個別的即時聊天時間並檢閱代表整備
 * 使用訪客屬性、條件、代表指派和優先順序建立路由規則
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506794?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[設定代表](../documentation/sales-handoff/representative-setup.md)和[將交談路由給代表](../documentation/sales-handoff/routing-rules.md)。
