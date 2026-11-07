@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: e0d8937790c9ecec27214488801fa155a3ad4e81
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '253'
 ht-degree: 11%
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 11%
 + Live Chat和會議預訂 {#live-chat-and-meeting-booking}
   + [Live Chat和會議預訂：端對端體驗](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
   + [設定即時聊天和會議的可用性和路由](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
+  + [在Marketo中使用Brand Concierge活動](../live-chat-meeting-booking/use-brand-concierge-activities-in-marketo.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
   + [技能與整合架構](../documentation/skills-and-integrations.md)
