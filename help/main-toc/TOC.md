@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: 探索 Adobe Brand Concierge
-source-git-commit: e0d8937790c9ecec27214488801fa155a3ad4e81
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '259'
 ht-degree: 11%
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 11%
 + Live Chat和會議預訂 {#live-chat-and-meeting-booking}
   + [Live Chat和會議預訂：端對端體驗](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
   + [設定即時聊天和會議的可用性和路由](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
+  + [設定Live Chat和Meeting Booking](../live-chat-meeting-booking/configure-live-chat-and-meeting-booking.md)
   + [在Marketo中使用Brand Concierge活動](../live-chat-meeting-booking/use-brand-concierge-activities-in-marketo.md)
 + 文件 {#documentation}
   + [Brand Concierge說明](../documentation/overview.md)
@@ -69,4 +70,4 @@ ht-degree: 11%
     + [分析門房績效](../documentation/analytics/analytics.md)
 + 發行說明 {#release-notes}
   + [目前版本資訊](../release-notes/current.md)
-+ {hide-from-toc}[品牌服務人員的示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)
++ 品牌服務人員的{hide-from-toc}[示範 — 價值影片](../demo-videos/demo-for-brand-concierge-value-video.md)

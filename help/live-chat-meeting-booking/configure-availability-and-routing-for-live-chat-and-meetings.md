@@ -5,12 +5,12 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '168'
 ht-degree: 0%
 ---
 # 設定即時聊天和會議的可用性和路由
@@ -29,6 +29,12 @@ ht-degree: 0%
 * 在「管理成員」中設定個別的即時聊天時間並檢閱代表整備
 * 使用訪客屬性、條件、代表指派和優先順序建立路由規則
 
->[!VIDEO](https://video.tv.adobe.com/v/3506794?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
 
 如需相關檔案，請參閱[設定代表](../documentation/sales-handoff/representative-setup.md)和[將交談路由給代表](../documentation/sales-handoff/routing-rules.md)。
+
+## 相關教學課程
+
+* [Live Chat和會議預訂：端對端體驗](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [設定Live Chat和Meeting Booking](configure-live-chat-and-meeting-booking.md)
+* [在Marketo中使用Brand Concierge活動](use-brand-concierge-activities-in-marketo.md)

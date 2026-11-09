@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # Live Chat和會議預訂：端對端體驗
@@ -30,6 +30,12 @@ ht-degree: 0%
 * 訪客如何使用路由規則選取可用的會議時間，而不重新提交在工作階段期間已提供的詳細資訊
 * 您的團隊如何在Marketo中檢閱活動和過去的聊天和預訂的會議、搜尋和篩選記錄，以及匯出會議資訊到CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3506007?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
 如需相關檔案，請參閱[即時聊天與會議預訂](../documentation/sales-handoff/overview.md)。
+
+## 相關教學課程
+
+* [設定即時聊天和會議的可用性和路由](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [設定Live Chat和Meeting Booking](configure-live-chat-and-meeting-booking.md)
+* [在Marketo中使用Brand Concierge活動](use-brand-concierge-activities-in-marketo.md)
