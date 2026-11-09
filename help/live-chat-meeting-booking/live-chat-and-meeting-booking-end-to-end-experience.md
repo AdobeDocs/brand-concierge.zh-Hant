@@ -30,7 +30,7 @@ ht-degree: 0%
 * 訪客如何使用路由規則選取可用的會議時間，而不重新提交在工作階段期間已提供的詳細資訊
 * 您的團隊如何在Marketo中檢閱活動和過去的聊天和預訂的會議、搜尋和篩選記錄，以及匯出會議資訊到CSV
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506007?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[即時聊天與會議預訂](../documentation/sales-handoff/overview.md)。
 

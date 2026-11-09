@@ -28,7 +28,7 @@ ht-degree: 0%
 * 將整合新增至銷售人員移交技能，並定義觸發該技能的意圖
 * 檢閱自動產生的指示、調整會觸發每次整合的意圖，並在預覽中測試技能
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508061?captions=chi_hant&learn=on)
 
 如需相關檔案，請參閱[啟動即時聊天和會議預訂](../documentation/sales-handoff/configure-in-composer.md)。
 
