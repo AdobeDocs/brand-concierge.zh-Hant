@@ -32,7 +32,7 @@ ht-degree: 0%
 * 將Concierge活動篩選器和觸發器新增至智慧行銷活動的`Smart List`
 * 使用活動限制來縮小對象範圍，例如狀態、日期、路由型別、頁面URL、銷售代表及交談分數
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508050?captions=chi_hant&learn=on)
 
 ## 相關教學課程
 
